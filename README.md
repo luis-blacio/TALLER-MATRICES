@@ -9,3 +9,6 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/29e89cd8cd5e024be2ca35b62b60
 
 
 //IMPRIMIR ELEMENTOS ESQUINEROS
+
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/74c0b0cabb28c45757eabde2b43b5bd25f5453e0/elementos_esquineros
