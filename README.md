@@ -37,5 +37,11 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/c6b694fc8a0c7cfb33f13c46f146
 
 https://github.com/luis-blacio/TALLER-MATRICES/blob/a481dbec7f708bfcf6c70d6679043de7c0d8faf9/matriz_transpuesta.c
 
+
 **8.-Generar la matriz simetrica**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/c593893112730291435b4abd0f4afa92afa4e522/matriz_simetrica.c
+
+
+**9.-
 
