@@ -56,3 +56,7 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/99c54caeff611cfe365069a91805
 
 https://github.com/luis-blacio/TALLER-MATRICES/blob/dd74cbc8373699467947459b36bc8edb0fd66aac/resta_matrices.c
 
+**12.- Multiplicación de matrices**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/7bdcbc53b7f87ef1ba4f561645f836cc0bce4371/multipli_matricez.c
+
