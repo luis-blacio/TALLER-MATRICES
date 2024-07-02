@@ -43,5 +43,10 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/a481dbec7f708bfcf6c70d667904
 https://github.com/luis-blacio/TALLER-MATRICES/blob/c593893112730291435b4abd0f4afa92afa4e522/matriz_simetrica.c
 
 
-**9.-
+**9.- filas y cuantas columnas tienen una matriz**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/d2a9d4bb601ee41e2b734256b619ba6b9d4e5877/matriz_FXC.c
+
+
+**10.- suma de matrices
 
