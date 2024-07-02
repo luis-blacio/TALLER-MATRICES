@@ -30,4 +30,12 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/3be15b2e03b9ff4430cd3e48d784
 https://github.com/luis-blacio/TALLER-MATRICES/blob/c6b694fc8a0c7cfb33f13c46f1461a84897d2b3f/elementos_no_esqui.c
 
 
-**
+**6.-Generar la matriz inversa**
+
+
+**7.-Generar la matriz transpuesta**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/a481dbec7f708bfcf6c70d6679043de7c0d8faf9/matriz_transpuesta.c
+
+**8.-Generar la matriz simetrica**
+
