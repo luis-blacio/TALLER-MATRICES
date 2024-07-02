@@ -48,5 +48,11 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/c593893112730291435b4abd0f4a
 https://github.com/luis-blacio/TALLER-MATRICES/blob/d2a9d4bb601ee41e2b734256b619ba6b9d4e5877/matriz_FXC.c
 
 
-**10.- suma de matrices
+**10.- suma de matrices**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/99c54caeff611cfe365069a9180589c2f241fdfd/suma_matrices.c
+
+**11.- Resta de Matrices**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/dd74cbc8373699467947459b36bc8edb0fd66aac/resta_matrices.c
 
