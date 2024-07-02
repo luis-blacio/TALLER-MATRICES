@@ -17,6 +17,17 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/74c0b0cabb28c45757eabde2b43b
 **3.- Imprimir los elementos pares de la matriz**
 
 
+https://github.com/luis-blacio/TALLER-MATRICES/blob/a7f97d546f05403fed84131619ba2ba4b4c1105d/matriz_pares
 
 
 **4.- Impirmir los elementos impares de la matriz**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/3be15b2e03b9ff4430cd3e48d78478d696b52a06/matriz_impares
+
+
+**5.-Imprimir los elelemntos que no esten en las esquinas**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/c6b694fc8a0c7cfb33f13c46f1461a84897d2b3f/elementos_no_esqui.c
+
+
+**
