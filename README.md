@@ -65,3 +65,7 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/7bdcbc53b7f87ef1ba4f561645f8
 
 **14.- Potencia de matrices**
 
+
+**15.- Suma de matrices en hexadecimal**
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/1ca13233fcef889413094f42be9089562d1e89a8/suma_hexad
