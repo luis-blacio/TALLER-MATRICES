@@ -71,3 +71,6 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/efdcb83b042aa055686ca779961b
 **15.- Suma de matrices en hexadecimal**
 
 https://github.com/luis-blacio/TALLER-MATRICES/blob/1ca13233fcef889413094f42be9089562d1e89a8/suma_hexad
+
+
+**16.-Algoritmo Cartas**
