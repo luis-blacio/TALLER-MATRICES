@@ -74,3 +74,6 @@ https://github.com/luis-blacio/TALLER-MATRICES/blob/1ca13233fcef889413094f42be90
 
 
 **16.-Algoritmo Cartas**
+
+
+https://github.com/luis-blacio/TALLER-MATRICES/blob/c48c59b0b3ac24d983049c329cba7cfe4777d2de/Or.c
