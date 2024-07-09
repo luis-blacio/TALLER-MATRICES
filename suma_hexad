@@ -96,3 +96,4 @@ int main() {
     imprimirMatrizHexadecimal(filas, columnas, matrizResultado, "Matriz Resultante (Suma)");
 
     return 0;
+]
