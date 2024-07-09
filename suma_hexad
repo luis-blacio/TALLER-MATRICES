@@ -49,17 +49,32 @@ void imprimirMatrizHexadecimal(int filas, int columnas, int matriz[filas][column
     printf("\n");
 }
 
+// Función para validar si una matriz es cuadrada
+int esMatrizCuadrada(int filas, int columnas) {
+    return filas == columnas;
+}
+
 int main() {
     // Semilla para los números aleatorios
     srand(time(NULL));
 
     int filas, columnas, min, max;
+    int esCuadrada = 0;
 
-    // Solicitar al usuario las dimensiones de la matriz
-    printf("Introduce el número de filas: ");
-    scanf("%d", &filas);
-    printf("Introduce el número de columnas: ");
-    scanf("%d", &columnas);
+    while (!esCuadrada) {
+        // Solicitar al usuario las dimensiones de la matriz
+        printf("Introduce el número de filas: ");
+        scanf("%d", &filas);
+        printf("Introduce el número de columnas: ");
+        scanf("%d", &columnas);
+
+        // Validar si la matriz es cuadrada
+        if (!esMatrizCuadrada(filas, columnas)) {
+            printf("Error: La matriz debe ser cuadrada (mismo número de filas y columnas). Inténtalo de nuevo.\n");
+        } else {
+            esCuadrada = 1;
+        }
+    }
 
     // Repetir hasta que el valor mínimo sea menor o igual al valor máximo
     do {
@@ -97,3 +112,4 @@ int main() {
 
     return 0;
 }
+
